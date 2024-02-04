@@ -1,0 +1,48 @@
+{
+  "userdetails": [
+    {
+      "name": "Geetanjali mishra",
+      "email": "mishra71.mail@gmail.com",
+      "password": "999986",
+      "phone": "9743679704",
+      "gender": "female",
+      "country": "tvcdfggvb",
+      "state": "Odisha",
+      "city": "PAtia",
+      "id": "ccd2"
+    },
+    {
+      "name": "Geetanjali mishra",
+      "email": "mishra71.mail@gmail.com",
+      "password": "999999",
+      "phone": "87766907654",
+      "gender": "female",
+      "country": "India",
+      "state": "Odisha",
+      "city": "PAtia",
+      "id": "7019"
+    },
+    {
+      "name": "SmrutiRnjita shahoo",
+      "email": "smruti.mail@gmail.com",
+      "password": "9876",
+      "phone": "98654327896",
+      "gender": "female",
+      "country": "india",
+      "state": "state",
+      "city": "PAtia",
+      "id": "44b8"
+    },
+    {
+      "name": "Manoranjan Pothal",
+      "email": "pothal98@gmail.com",
+      "password": "8796",
+      "phone": "90909357866",
+      "gender": "male",
+      "country": "india",
+      "state": "odisha",
+      "city": "delhi",
+      "id": "51b5"
+    }
+  ]
+}
